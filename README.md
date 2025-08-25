@@ -1,5 +1,5 @@
 ---
-https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyN2VtZzhramxyMHh3aDA3bDVoOTQyY3U1OXJ1YnF6bHg3dXBpcDRjNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bFEQEDLmhrYsse0zFF/giphy-downsized.gif
+![cp1](https://github.com/user-attachments/assets/54a591ba-e232-4dcc-9d26-21e82bce47da)
 ---
 ## 💫 About Me<br>
 I’m Alvin Mwaura, a full-stack engineering student with a strong interest in both software development and creative technology. My focus is on building scalable applications while expanding my expertise in complementary fields that enhance my technical skill set.<br><br>
