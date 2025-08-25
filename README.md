@@ -2,22 +2,22 @@
 
 ---
 ### 💫 About Me<br>
-I’m Alvin Mwaura, a full-stack engineering student with a strong interest in both software development and creative technology. My focus is on building scalable applications while expanding my expertise in complementary fields that enhance my technical skill set.<br>
+I’m Alvin Mwaura, a full-stack engineering student with a strong interest in both software development and creative technology. My focus is on building scalable applications while expanding my expertise in complementary fields that enhance my technical skill set.<br><br>
 
 ###🔭 I’m currently working on<br>
-Building skills in full-stack software development.<br>
+Building skills in full-stack software development.<br><br>
 
 ###👯 I’m looking to collaborate on<br>
-I’m open to collaborating on innovative web applications and tech-driven projects.<br>
+I’m open to collaborating on innovative web applications and tech-driven projects.<br><br>
 
 ###🤝 I’m looking for help with<br>
-I’m seeking guidance in advancing my knowledge of cybersecurity.<br>
+I’m seeking guidance in advancing my knowledge of cybersecurity.<br><br>
 
 ###🌱 I’m currently learning<br>
-3D modeling, cybersecurity, and graphic design.<br>
+3D modeling, cybersecurity, and graphic design.<br><br>
 
 ###💬 Ask me about<br>
-full-stack development, creative problem-solving, or UI/UX approaches.<br>
+full-stack development, creative problem-solving, or UI/UX approaches.<br><br>
 
 ###⚡ Fun fact<br>
 I enjoy combining technical problem-solving with creative design to build well-rounded solutions.
