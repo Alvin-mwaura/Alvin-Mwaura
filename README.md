@@ -2,7 +2,7 @@
 
 ---
 ### 💫 About Me<br>
----
+--
 I’m Alvin Mwaura, a full-stack engineering student with a strong interest in both software development and creative technology. My focus is on building scalable applications while expanding my expertise in complementary fields that enhance my technical skill set.<br><br>
 
 ###🔭 I’m currently working on<br>
